@@ -8,9 +8,9 @@ I'm a Software Engineer, Cloud Engineer who currently works as a Technological o
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm an alumni of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m knowledgable in Cloud Engineering, JavaScript, Node.js and Python.
+- 🌱 I’m knowledgable in Cloud/DevOps Engineering and SOC analyst.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Cloud Engineer, or Backend Engineer (Intern or Junior level).
+- 💼 Job interests: SOC analyst, DevOps Engineer, Software Engineer, Cloud Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing aicodeen@gmail.com.
 
 ---
